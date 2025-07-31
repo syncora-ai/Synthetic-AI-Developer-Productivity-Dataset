@@ -41,13 +41,22 @@ Use this dataset for:
 
 ---
 
-## 📁 Data Characteristics
+## 📂 Repository Structure
 
-- **Records**: 5,000  
-- **Format**: CSV — easy to load into Python, R, Excel  
-- **Balanced**: Includes varied distributions of productivity levels  
-- **Missing Data**: Present in selected columns for realistic imputation tasks  
-- **Synthetic Guarantee**: Fully privacy-safe and customizable
+```
+📁 synthetic-ai-developer-productivity
+├── 📄 README.md                 <- You're here!
+├── 📁 notebooks/               <- Sample notebooks for exploration (coming soon)
+│    └── productivity-modeling.ipynb  <- Use case: burnout detection, forecasting
+└── 📁 data/                    <- CSV dataset (to be added)
+     └── developer_productivity.csv
+```
+
+This repo will evolve with version-controlled notebooks and helper scripts, making it easier for you to plug into ML workflows, productivity simulations, or dashboard prototypes.
+
+---
+
+As we finalize the notebook and dataset, these folders will be updated with version-controlled content designed for modeling, experimentation, and reproducibility.
 
 ---
 
@@ -69,6 +78,9 @@ Use this dataset for:
 - Ethically aligned with modern AI development standards
 
 Whether you're researching developer well-being or simulating team performance, Syncora’s synthetic datasets give you the freedom to explore — safely.
+## 💬 Questions or Suggestions?
+
+Have feedback, research use cases, or want to contribute? Drop us a message or create an issue. We're always looking to collaborate with AI researchers, developer advocates, and product teams pushing the boundaries of productivity science.
 
 ---
 
