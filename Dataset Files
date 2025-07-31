@@ -1,0 +1,8 @@
+This folder will host the synthetic dataset files in CSV format.
+
+Files will include:
+- Cleaned main dataset
+- Sample/test splits
+- Versions with intentional missing data for imputation tasks
+
+All files will be fully synthetic and privacy-safe.
