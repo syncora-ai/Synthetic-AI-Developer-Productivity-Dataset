@@ -41,22 +41,23 @@ Use this dataset for:
 
 ---
 
-## 📂 Repository Structure
+## 📦 This Repo Contains
 
-```
-📁 synthetic-ai-developer-productivity
-├── 📄 README.md                 <- You're here!
-├── 📁 notebooks/               <- Sample notebooks for exploration (coming soon)
-│    └── productivity-modeling.ipynb  <- Use case: burnout detection, forecasting
-└── 📁 data/                    <- CSV dataset (to be added)
-     └── developer_productivity.csv
-```
+- **Synthetic AI Developer Productivity Dataset** – CSV format, ready for analysis and modeling.  
+  [**Download Dataset**](https://github.com/syncora-ai/Synthetic-AI-Developer-Productivity-Dataset/blob/main/Developer_Productivity_Synthetic_Syncora.csv)
 
-This repo will evolve with version-controlled notebooks and helper scripts, making it easier for you to plug into ML workflows, productivity simulations, or dashboard prototypes.
+- **Jupyter Notebooks** – Notebooks demonstrating dataset exploration and usage.  
+  [**Open Notebooks**](https://github.com/syncora-ai/Synthetic-AI-Developer-Productivity-Dataset/blob/main/Notebooks)
+
+- **Visual Assets** – Charts, diagrams, and other visuals for reference.  
+  [**View Visual Assets**](https://github.com/syncora-ai/Synthetic-AI-Developer-Productivity-Dataset/blob/main/%F0%9F%93%88%20Visual%20Assets)
 
 ---
 
-As we finalize the notebook and dataset, these folders will be updated with version-controlled content designed for modeling, experimentation, and reproducibility.
+## 🔗 Generate Your Own Synthetic Dataset
+
+Take your AI projects further with **Syncora.ai**:  
+[**→ Generate your own synthetic datasets now**](https://app.syncora.ai/login)
 
 ---
 
