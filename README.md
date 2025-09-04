@@ -47,10 +47,7 @@ Use this dataset for:
   [**Download Dataset**](https://github.com/syncora-ai/Synthetic-AI-Developer-Productivity-Dataset/blob/main/Developer_Productivity_Synthetic_Syncora.csv)
 
 - **Jupyter Notebooks** – Notebooks demonstrating dataset exploration and usage.  
-  [**Open Notebooks**](https://github.com/syncora-ai/Synthetic-AI-Developer-Productivity-Dataset/blob/main/Notebooks)
-
-- **Visual Assets** – Charts, diagrams, and other visuals for reference.  
-  [**View Visual Assets**](https://github.com/syncora-ai/Synthetic-AI-Developer-Productivity-Dataset/blob/main/%F0%9F%93%88%20Visual%20Assets)
+  [**Open Notebooks**](https://github.com/syncora-ai/Synthetic-AI-Developer-Productivity-Dataset/blob/main/developer-productivity%20(1)%20(2)_clean.ipynb)
 
 ---
 
